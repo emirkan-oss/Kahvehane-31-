@@ -1,0 +1,6 @@
+{
+  "name": "The Coffeehouse Bill - 31 Game",
+  "description": "Real-time multiplayer Turkish coffeehouse game. Pick a secret number, survive the guessing rounds, and don't get stuck with the tea bill!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
